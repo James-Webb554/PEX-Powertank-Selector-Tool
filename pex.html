@@ -1,0 +1,465 @@
+<!doctype html>
+<html style="overflow-x: hidden;" lang="en">
+
+<head>
+  <script src="https://pumpexpress.co.uk/ptst/js/iframe-resizer.child.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+    integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+    crossorigin="anonymous"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+    rel="stylesheet">
+</head>
+
+<body>
+
+  <style>
+    body {
+      font: var(--porto-body-fst, normal) var(--porto-body-fw, 400) var(--porto-body-fs, 14px) / var(--porto-body-lh, 24px) var(--porto-body-ff), sans-serif !important;
+      letter-spacing: var(--porto-body-ls, 0) !important;
+      --porto-body-ff: "Poppins" !important;
+      line-height: 20px !important;
+      font-family: "Poppins" !important;
+      font-size: 14px !important;
+      font-weight: 400 !important;
+      color: #444444 !important;
+    }
+
+    figcaption {
+      font: var(--porto-body-fst, normal) var(--porto-body-fw, 400) var(--porto-body-fs, 14px) / var(--porto-body-lh, 24px) var(--porto-body-ff), sans-serif !important;
+      letter-spacing: var(--porto-body-ls, 0) !important;
+      --porto-body-ff: "Poppins" !important;
+      line-height: 40px !important;
+      font-family: "Poppins" !important;
+      font-size: 14px !important;
+      font-weight: 400 !important;
+      color: #444444 !important;
+    }
+
+    .badge {
+      font-size: 13px !important;
+    }
+
+
+    ul {
+      line-height: 2px !important;
+      font-family: "Poppins" !important;
+      font-size: 13px !important;
+      font-weight: 500 !important;
+      color: #444444 !important;
+    }
+
+    li {
+      line-height: 20px !important;
+      font-family: "Poppins" !important;
+      font-size: 13px !important;
+      font-weight: 500 !important;
+      color: #444444 !important;
+    }
+
+    h2 {
+      line-height: 24px !important;
+      font-family: "Poppins" !important;
+      font-size: 24px !important;
+      font-weight: 700 !important;
+      color: #686868 !important;
+
+
+      font: var(--porto-h2-fst, normal) var(--porto-h2-fw, 700) var(--porto-h2-fs, 2.2em) / var(--porto-h2-lh, 40px) var(--porto-h2-ff, var(--porto-body-ff)), sans-serif;
+      color: var(--porto-h2-color, var(--porto-heading-color));
+      letter-spacing: var(--porto-h2-ls, -0.05em);
+      margin-bottom: 32px;
+    }
+
+    .btn-primary {
+      --bs-btn-font-weight: 500;
+      --bs-btn-bg: #1ae1ef;
+      --bs-btn-border-color: #1ae1ef;
+      --bs-btn-hover-bg: #17c9d6;
+      --bs-btn-hover-border-color: #17c9d6;
+      --bs-btn-active-bg: #1ae1ef;
+      --bs-btn-active-border-color: #1ae1ef;
+    }
+
+    .btn-secondary {
+      --bs-btn-font-weight: 500;
+      --bs-btn-bg: #1c2836;
+      --bs-btn-border-color: #1c2836;
+      --bs-btn-hover-bg: #10171f;
+      --bs-btn-hover-border-color: #10171f;
+      --bs-btn-active-bg: #1c2836;
+      --bs-btn-active-border-color: #050505;
+    }
+
+    .badge {
+      --bs-secondary-rgb: 28, 40, 54;
+    }
+
+    a {
+      text-decoration: unset;
+    }
+
+    .modal-backdrop {
+      background-color: transparent !important;
+    }
+
+    .modal-content {
+      border: 2px solid black !important;
+    }
+
+    #main-content-wrapper {
+      margin-left: 65px;
+      margin-right: 70px;
+    }
+
+    .btn.disabled,
+    .btn:disabled,
+    fieldset:disabled .btn {
+      color: var(--bs-btn-disabled-color);
+      pointer-events: none;
+      background-color: rgba(0, 0, 0, 0.125);
+      border-color: var(--bs-btn-disabled-border-color);
+      opacity: var(--bs-btn-disabled-opacity);
+    }
+
+
+    /* For screens below 1024px */
+    @media (max-width: 1024px) {
+      #main-content-wrapper {
+        margin-left: 0px;
+        margin-right: 0px;
+      }
+    }
+
+    div#exampleModalToggle2 {
+      overflow: hidden;
+    }
+  </style>
+
+  <div style="display:contents" id="main-content-wrapper">
+
+    <div class="modal fade mt-4 mb-4" id="help-modal" tabindex="-1" aria-labelledby="exampleModalLabel"
+      aria-hidden="true">
+      <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content">
+          <div class="modal-header border border-0">
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body mb-4">
+            <div class="row ms-3 mt-2 mb-2" style="align-items: center;">
+              <div id="modal-body-c1" class="col-xl-6 align-content-center"></div>
+              <div id="modal-body-c2" class="col-xl-6 text-center"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="modal fade" id="exampleModalToggle2" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2"
+      tabindex="-1">
+      <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content">
+          <div class="modal-body">
+            <div class="row ms-3 mt-2 mb-2 me-3">
+              <div class="col-xl-12 align-content-center">
+                <br>
+                <h3 class="mb-4">Our team are here to help: </h3>
+                <h6 class="mb-4">Please fill out the form below for assistance or you can contact our team on
+                  01633244777 or on <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none"
+                    stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" width="25" height="25"
+                    stroke-width="2">
+                    <path d="M3 21l1.65 -3.8a9 9 0 1 1 3.4 2.9l-5.05 .9"></path>
+                    <path
+                      d="M9 10a.5 .5 0 0 0 1 0v-1a.5 .5 0 0 0 -1 0v1a5 5 0 0 0 5 5h1a.5 .5 0 0 0 0 -1h-1a.5 .5 0 0 0 0 1">
+                    </path>
+                  </svg>
+                  <a href="https://wa.me/447930614237">WhatsApp</a>
+                </h6>
+                <div id="hbspt-form-78346bda-b3b2-44e9-8145-7e5005bc81d7" class="hbspt-form" data-hs-forms-root="true">
+                  <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/embed/v2.js"></script>
+                  <script>
+                    hbspt.forms.create({
+                      portalId: "5180504",
+                      formId: "83244105-5a83-4e4e-b579-9c876fce7164",
+                      region: "na1"
+                    });
+                  </script>
+                  <style>
+                    .hs_recaptcha.hs-recaptcha.field.hs-form-field {
+                      display: none;
+                    }
+                  </style>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div style="display:contents" id="Section-1" class="container">
+      <br>
+      <div class="row">
+        <div class="col-xl-6 order-2 order-xl-2 align-content-center">
+          <img class="img-fluid mb-4" style="width:70%;"
+            src="https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/logo/Powertank-Logo.png" />
+          <h4 class="mt-4">Using this tool:</h4>
+          <p class="mt-4">This tool is a guide that is designed to give the closest approximation of what you may need
+            to solve your
+            pressure and flow issues. If
+            you need any help, please click the <img alt="Help Icon" src="https://pumpexpress.co.uk/ptst/js/help.svg" />
+            icon
+          </p>
+
+          <h4>Powertanks are perfect for:</h4>
+
+          <ul class="list-group mt-4">
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+              Combination Boilers
+              <span class="badge">
+                <img class="open-modal" alt="Help Icon" data-bs-toggle="modal" data-bs-target="#help-modal"
+                  data-name="CombinationBoilerHelp" src="https://pumpexpress.co.uk/ptst/js/help.svg" />
+              </span>
+            </li>
+
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+              Unvented Cylinders
+              <span class="badge">
+                <img class="open-modal" id="help-modal-tag" alt="Help Icon" data-bs-toggle="modal"
+                  data-bs-target="#help-modal" data-name="UnventedCylinderHelp"
+                  src="https://pumpexpress.co.uk/ptst/js/help.svg" />
+              </span>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+              Heat Pumps
+              <span class="badge">
+                <img class="open-modal" alt="Help Icon" data-bs-toggle="modal" data-bs-target="#help-modal"
+                  data-name="HeatPumpHelp" src="https://pumpexpress.co.uk/ptst/js/help.svg" />
+              </span>
+            </li>
+          </ul>
+          <button type="button" id="Section-1-Btn-1" class="btn btn-primary col-12 mb-4 mt-4">Continue</button>
+          <!-- <form id="form">
+            <div class="form-check form-check-inline mt-4">
+              <input class="form-check-input" type="checkbox" value="" id="termsCheck">
+              <label class="form-check-label" for="termsCheck">
+                I understand that this tool is a recommendation and understand that it may not be 100% accurate.
+              </label>
+            </div>
+
+            <button type="button" id="Section-1-Btn-1" class="btn btn-primary col-12 mb-4 mt-4"
+              disabled>Continue</button>
+          </form> -->
+
+          <style>
+            /* Add a red border to the form when the checkbox is unchecked and the button is disabled */
+            .form-invalid {
+              border: 2px solid red;
+            }
+          </style>
+
+          <!-- <script>
+            // Get checkbox, button, and form elements
+            const termsCheck = document.getElementById('termsCheck');
+            const continueButton = document.getElementById('Section-1-Btn-1');
+            const form = document.getElementById('form');
+
+            // Add event listener to enable/disable the continue button based on checkbox status
+            termsCheck.addEventListener('change', function () {
+              if (termsCheck.checked) {
+                continueButton.disabled = false;  // Enable the button if checkbox is checked
+                form.classList.remove('form-invalid');  // Remove the red border if enabled
+              } else {
+                continueButton.disabled = true;   // Disable the button if checkbox is unchecked
+              }
+            });
+
+            // Add event listener for when the button is clicked
+            continueButton.addEventListener('click', function () {
+              if (continueButton.disabled) {
+                // Add the red border to the form if the button is clicked while disabled
+                form.classList.add('form-invalid');
+              }
+            });
+          </script> -->
+
+
+
+        </div>
+
+
+        <div class="col-xl-6 order-1 order-xl-2 align-content-center">
+          <img class="img-fluid"
+            src="https://powertank.co.uk/wp-content/uploads/2024/12/POWERTANK-RANGE-STANDARD.webp" />
+          <figcaption class="figure-caption text-center fw-bolder">POWERTANK - Your All-In-One Solution To Fixing Your
+            Low Water Pressure & Flow</figcaption>
+        </div>
+
+
+      </div>
+      <br>
+    </div>
+
+    <div style="display:none;" id="Section-2" class="container mt-4 mb-4">
+      <br><br>
+      <div class="row">
+
+        <div class="col-xl-11 mb-4 align-content-center">
+          <img class="img-fluid" style="width:40%;"
+            src="https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/logo/Powertank-Logo.png" />
+        </div>
+        <div class="col-xl-1 mt-4 mb-4">
+          <button id="inputs-back" class="col-xl-12 btn btn-primary mt-2">Back</button>
+        </div>
+
+        <div class="col-xl-12">
+          <br>
+          <h4>We need to know some information about you and your household:</h4>
+          <p class="mt-2 mb-4">Please be as accurate as you can in telling us about your household, this will determine
+            the closest approximation of
+            tank storage needed, type of pump, and configuration. This tool doesn't save your information.</p>
+
+          <form class="row mt-4">
+            <div class="col-xl-6 mt-1">
+              <label for="inputEmail4" class="form-label">
+                Your incoming flow rate (LPM): <img class="open-modal" alt="Help Icon" data-bs-toggle="modal"
+                  data-bs-target="#help-modal" data-name="IncomingFlowRateHelp"
+                  src="https://pumpexpress.co.uk/ptst/js/help.svg" alt="Help Button Incoming Flow Rate" />
+              </label>
+              <input type="number" class="form-control" id="PTIncomingFlowRate" value="0"
+                placeholder="Please enter a number here">
+            </div>
+
+            <div class="col-xl-6 mt-1">
+              <label for="HowManyPropertyFloors" class="form-label">
+                How many property floors? <img class="open-modal" alt="Help Icon" data-bs-toggle="modal"
+                  data-bs-target="#help-modal" data-name="PropertyFloorsHelp"
+                  src="https://pumpexpress.co.uk/ptst/js/help.svg" alt="Help Button Property Floors" />
+              </label>
+              <input type="number" class="form-control" id="PTTotalPropertyFloors" value="0"
+                placeholder="Please enter a number here">
+            </div>
+
+            <!-- <div class="col-xl-4 mt-1">
+              <label for="inputPassword4" class="form-label">
+                How many separate baths? <img class="open-modal" alt="Help Icon" data-bs-toggle="modal"
+                  data-bs-target="#help-modal" data-name="SeparateBathsHelp"
+                  src="https://pumpexpress.co.uk/ptst/js/help.svg" alt="Help Button Separate Baths" />
+              </label>
+              <input type="number" class="form-control" id="PTSeparateBaths" value="0"
+                placeholder="Please enter a number here">
+            </div> -->
+
+            <div class="col-xl-4 mt-3">
+              <label for="inputPassword4" class="form-label">
+                How many separate showers? <img class="open-modal" alt="Help Icon" data-bs-toggle="modal"
+                  data-bs-target="#help-modal" data-name="StandardShowersHelp"
+                  src="https://pumpexpress.co.uk/ptst/js/help.svg" alt="Help Button Standard Showers" />
+              </label>
+              <input type="number" class="form-control" id="PTStandardShowers" value="0"
+                placeholder="Please enter a number here">
+            </div>
+
+            <div class="col-xl-4 mt-3">
+              <label for="inputPassword4" class="form-label">
+                How many rainfall showers? <img class="open-modal" alt="Help Icon Rainfall Showers"
+                  data-bs-toggle="modal" data-bs-target="#help-modal" data-name="RainFallShowersHelp"
+                  src="https://pumpexpress.co.uk/ptst/js/help.svg" alt="Help Button Rain Fall Showers" />
+              </label>
+
+              <input type="number" class="form-control" id="PTRainFallShowers" value="0"
+                placeholder="Please enter a number here">
+            </div>
+
+            <div class="col-xl-4 mt-3">
+              <label for="inputPassword4" class="form-label">
+                How many drench head showers? <img class="open-modal" alt="Help Icon Drench Showers Help"
+                  data-bs-toggle="modal" data-bs-target="#help-modal" data-name="DrenchShowersHelp"
+                  src="https://pumpexpress.co.uk/ptst/js/help.svg" alt="Help Button Drench Head Showers" />
+              </label>
+
+              <input type="number" class="form-control" id="PTDrenchHeadShowers" value="0"
+                placeholder="Please enter a number here">
+            </div>
+
+
+            <div class="col-xl-12 mt-4">
+              <button id="PTFormSubmit" type="button" class="col-xl-12 btn btn-primary mt-2">
+                Continue
+              </button>
+            </div>
+
+          </form>
+
+        </div>
+      </div>
+      <br><br><br><br>
+    </div>
+
+
+    <div style="display:none;" id="Section-3" class="container">
+      <div class="row">
+
+        <div class="col-xl-11 mb-4 align-content-center">
+          <img class="img-fluid" style="width:40%;"
+            src="https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/logo/Powertank-Logo.png" />
+        </div>
+        <div class="col-xl-1 mt-4 mb-4">
+          <button id="results-back" class="col-xl-12 btn btn-primary mt-2">Back</button>
+        </div>
+
+        <div class="col-xl-12">
+          <br>
+          <h4 style="display:none;" id="here-are-results-title">Here are your results:</h4>
+          <p style="display:none;" class="mt-2 mb-4" id="here-are-results-para">These results are our recommendations
+            based on the inputs you have provided. If you have unique applications or have what may be considered a
+            non-typical property/application, then please get in touch with us to discuss this.</p>
+
+          <div id="result-card-wrapper" class="row"></div>
+        </div>
+      </div>
+
+
+      <div id="result-card-wrapper-form" style="display:none;" class="row mt-4">
+        <div id="Section-3-Body2" class="col-xl-12">
+          <h4 style="display:none;" id="here-are-results-title-form">You seem to have a unique application! </h4>
+          <p style="display:none;" id="here-are-results-para-form" class="mt-2 mb-4">After reviewing your results, it
+            appears you may benefit
+            from additional assistance or expert advice. Please feel free
+            to reach out to us using the form below. We’d be happy to discuss your unique setup and are confident we
+            can offer the
+            best solution tailored to your needs! </p>
+        </div>
+
+        <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/embed/v2.js"></script>
+        <script>
+          hbspt.forms.create({
+            portalId: "5180504",
+            formId: "83244105-5a83-4e4e-b579-9c876fce7164",
+            region: "na1"
+          });
+        </script>
+
+      </div>
+
+
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+      crossorigin="anonymous"></script>
+
+
+    <script src="https://pumpexpress.co.uk/ptst/js/pex-nav.js" crossorigin="anonymous"></script>
+    <script src="https://pumpexpress.co.uk/ptst/js/pex-modal.js" crossorigin="anonymous"></script>
+    <script src="https://pumpexpress.co.uk/ptst/js/pex-results.js" crossorigin="anonymous"></script>
+
+  </div>
+</body>
+
+</html>
