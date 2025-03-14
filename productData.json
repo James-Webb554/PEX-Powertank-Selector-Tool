@@ -1,0 +1,614 @@
+[
+  {
+    "ID": 1,
+    "SKU": 2600070,
+    "ProductName":"POWERTANK Compact Fixed Speed 125LTR",
+    "InlineImage": "https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/CustomerPortal/PowertankSelector/ProductImages/compact/pt-compact-made-in-britain-3-year-warranty.webp",
+    "Title": "<b>POWERTANK COMPACT <br>FIXED SPEED 125LTR</b>",
+    "Model": "POWERTANK Compact",
+    "URL": "https://pumpexpress.co.uk/shop/powertank-compact-fixed-speed-whole-house-water-pressure-booster-125ltr/",
+    "ProductWooValue": "3002",
+    "Price": "£936.00",
+    "PTTankSize": "Tank Size: 125LTR",
+    "TankSize": 125,
+    "Minimal": 10,
+    "FlowRate": 40,
+    "ProductURL": "https://pumpexpress.co.uk/shop/powertank-compact-fixed-speed-whole-house-water-pressure-booster-125ltr/",
+    "PrimaryImage": "https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/pt/PT-Compact-125-fixed.webp",
+    "KeyPoints": [
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/bath.svg' alt='Bath icon' '/> Good for boosting a single bath/shower",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/home-check.svg' alt='House icon' /> Ideal for apartments, cottages, townhouses",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/Performance-Icon.svg' alt='Performance Icon' '/>  Performance: <b>40LPM AT 3 BAR</b>",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/arrow-autofit-height.svg' alt='Compact icon' '/> Small & compact"
+    ]
+  },
+  {
+    "ID": 2,
+    "SKU": 2600080,
+    "ProductName":"POWERTANK Compact Variable Speed 125LTR",
+    "Title": "<b>POWERTANK COMPACT <br>VARIABLE SPEED 125LTR</b>",
+    "Model": "POWERTANK Compact",
+    "URL": "https://pumpexpress.co.uk/shop/powertank-compact-variable-speed-water-pressure-booster/",
+    "ProductWooValue": "3045",
+    "Price": "£1,584.00",
+    "TankSize": 125,
+    "Minimal": 10,
+    "FlowRate": 80,
+    "PrimaryImage": "https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/pt/PT-Compact-125-variable.webp",
+    "KeyPoints": [
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/bath.svg' alt='Bath icon' '/> Good for boosting a single bath/shower",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/home-check.svg' alt='House icon' /> Ideal for apartments, cottages, townhouses",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/Performance-Icon.svg' alt='Performance Icon' '/>  Performance: <b>80LPM AT 3 BAR</b>",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/arrow-autofit-height.svg' alt='Compact icon' '/> Small & compact"
+    ]
+  },
+  {
+    "ID": 3,
+    "SKU": 2600090,
+    "ProductName": "POWERTANK 200ltr Slimline Fixed Speed Pump",
+    "Title": "<b>POWERTANK SLIMLINE <br>FIXED SPEED 200LTR</b>", 
+    "URL": "https://pumpexpress.co.uk/shop/powertank-slimline-fixed-speed-water-pressure-booster/?attribute_select-a-tank-size=200+Litre+Tank",
+    "ProductWooValue": "3051",
+    "Model": "SLIMLINE",
+    "Price": "£876.00",
+    "Type": "POWERTANK Slimline",
+    "TankSize": 200,
+    "ControllerType": "Includes 3 Year Warranty",
+    "FlowRate": 40,
+    "PrimaryImage": "https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/pt/PT-Slimline-200-fixed.webp",
+    "KeyPoints": [
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/bath.svg' alt='Bath icon' '/> Good for 1-2 baths/showers",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/home-check.svg' alt='House icon' /> Ideal for 1-2 bedroom houses",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/Performance-Icon.svg' alt='Performance Icon' '/>  Performance: <b>40LPM AT 3 BAR</b>",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/door.svg' alt='Door Icon' '/> Fits through standard UK door"
+    ]
+  },
+  {
+    "ID": 4,
+    "SKU": 2600100,
+    "ProductName": "POWERTANK 200ltr Slimline Variable Speed Pump",
+    "Title": "<b>POWERTANK SLIMLINE <br>VARIABLE SPEED 200LTR</b>",
+    "URL": "https://pumpexpress.co.uk/shop/powertank-slimline-variable-speed-water-pressure-booster/?attribute_select-a-tank-size=200+Litre+Tank",
+    "ProductWooValue": "3056",
+    "Model": "SLIMLINE",
+    "Price": "£1,494.00",
+    "TankSize": 200,
+    "ControllerType": "Variable",
+    "FlowRate": 80,
+    "PrimaryImage": "https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/pt/PT-Slimline-200-variable.webp",
+    "KeyPoints": [
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/bath.svg' alt='Bath icon' '/> Good for 1-2 baths/showers",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/home-check.svg' alt='House icon' /> Ideal for 1-2 bedroom houses",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/Performance-Icon.svg' alt='Performance Icon' '/>  Performance: <b>80LPM AT 3 BAR</b>",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/door.svg' alt='Door Icon' '/> Fits through standard UK door"
+    ]
+  },
+  {
+    "ID": 5,
+    "SKU": 2600360,
+    "ProductName": "POWERTANK 200ltr COFFIN Fixed Speed Pump",
+    "Title": "<b>POWERTANK COFFIN <br>FIXED SPEED 200LTR</b>",
+    "URL": "https://pumpexpress.co.uk/shop/powertank-coffin-200ltr-fixed-speed-water-pressure-booster/",
+    "Model": "COFFIN",
+    "Price": "£924.00",
+    "TankSize": 200,
+    "ControllerType": "Fixed",
+    "FlowRate": 40,
+    "PrimaryImage": "https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/pt/PT-Coffin-200-fixed.webp",
+    "KeyPoints": [
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/bath.svg' alt='Bath icon' '/> Good for 1-2 baths/showers",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/home-check.svg' alt='House icon' /> Ideal for 1-2 bedroom houses",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/Performance-Icon.svg' alt='Performance Icon' '/>  Performance: <b>40LPM AT 3 BAR</b>",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/arrow-autofit-height.svg' alt='House icon' /> Ideal for height restrictions"
+    ]
+  },
+  {
+    "ID": 5,
+    "SKU": 2600370,
+    "Title": "<b>POWERTANK COFFIN <br>VARIABLE SPEED 200LTR</b>",
+    "URL": "https://pumpexpress.co.uk/shop/powertank-coffin-200ltr-variable-speed-water-pressure-booster/",
+    "Model": "COFFIN",
+    "Price": "£1,764.00",
+    "TankSize": 200,
+    "ControllerType": "Variable",
+    "FlowRate": 80,
+    "PrimaryImage": "https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/pt/PT-Coffin-200-variable.webp",
+    "KeyPoints": [
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/bath.svg' alt='Bath icon' '/> Good for 1-2 baths/showers",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/home-check.svg' alt='House icon' /> Ideal for 1-2 bedroom houses",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/Performance-Icon.svg' alt='Performance Icon' '/>  Performance: <b>80LPM AT 3 BAR</b>",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/arrow-autofit-height.svg' alt='House icon' /> Ideal for height restrictions"
+    ]
+  },
+  {
+    "ID": 7,
+    "SKU": 2600380,
+    "ProductName": "Powertank COFFIN 270ltr - Fixed Speed",
+    "Title": "<b>POWERTANK COFFIN <br>FIXED SPEED 270LTR</b>",
+    "URL": "https://pumpexpress.co.uk/shop/powertank-coffin-270ltr-fixed-speed-water-pressure-booster/",
+    "Model": "COFFIN",
+    "Price": "£1062.00",
+    "TankSize": 270,
+    "ControllerType": "Fixed",
+    "FlowRate": 40,
+    "PrimaryImage": "https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/pt/PT-Coffin-270-fixed.webp",
+    "KeyPoints": [
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/bath.svg' alt='Bath icon' '/> Good for 1-2 baths/showers",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/home-check.svg' alt='House icon' /> Ideal for 1-2 bedroom houses",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/Performance-Icon.svg' alt='Performance Icon' '/>  Performance: <b>40LPM AT 3 BAR</b>",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/arrow-autofit-height.svg' alt='House icon' /> Ideal for height restrictions"
+    ]
+  },
+  {
+    "ID": 8,
+    "SKU": 2600390,
+    "ProductName": "Powertank COFFIN 270ltr - Variable Speed",
+    "Title": "<b>POWERTANK COFFIN <br>VARIABLE SPEED 270LTR</b>",
+    "URL": "https://pumpexpress.co.uk/shop/powertank-coffin-270ltr-variable-speed-water-pressure-booster/",
+    "Model": "COFFIN",
+    "Price": "£1,902.00",
+    "TankSize": 270,
+    "ControllerType": "Variable",
+    "FlowRate": 80,
+    "PrimaryImage": "https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/pt/PT-Coffin-270-variable.webp",
+    "KeyPoints": [
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/bath.svg' alt='Bath icon' '/> Good for 1-2 baths/showers",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/home-check.svg' alt='House icon' /> Ideal for 1-2 bedroom houses",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/Performance-Icon.svg' alt='Performance Icon' '/>  Performance: <b>80LPM AT 3 BAR</b>",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/arrow-autofit-height.svg' alt='House icon' /> Ideal for height restrictions"
+    ]
+  },
+  {
+    "ID": 9,
+    "SKU": 2600310,
+    "ProductName": "Powertank RECTANGULAR - Fixed Speed - 300",
+    "Title": "<b>POWERTANK RECTANGULAR <br>FIXED SPEED 300LTR</b>",
+    "URL": "https://pumpexpress.co.uk/shop/powertank-rectangular-300-500ltr-fixed-speed-water-pressure-booster/?attribute_select-a-tank-size=300+Litre+Tank",
+    "Model": "RECTANGULAR",
+    "Price": "£948.00",
+    "TankSize": 300,
+    "FlowRate": 40,
+    "PrimaryImage": "https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/pt/PT-Rectangular-300-fixed.webp",
+    "KeyPoints": [
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/bath.svg' alt='Bath icon' '/> Good for 2-3 baths/showers",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/home-check.svg' alt='House icon' /> Ideal for 1-2 bedroom houses",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/Performance-Icon.svg' alt='Performance Icon' '/>  Performance: <b>40LPM AT 3 BAR</b>",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/arrow-autofit-height.svg' alt='House icon' /> Ideal for height restrictions"
+    ]
+  },
+  {
+    "ID": 10,
+    "SKU": 2600320,
+    "Title": "<b>POWERTANK RECTANGULAR <br>VARIABLE SPEED 300LTR</b>",
+    "URL": "https://pumpexpress.co.uk/shop/powertank-rectangular-300-500ltr-variable-speed-water-pressure-booster/?attribute_select-a-tank-size=300+Litre+Tank",
+    "Model": "RECTANGULAR",
+    "Price": "£1,572.00",
+    "TankSize": 300,
+    "FlowRate": 80,
+    "PrimaryImage": "https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/pt/PT-Rectangular-300-variable.webp",
+    "KeyPoints": [
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/bath.svg' alt='Bath icon' '/> Good for 2-3 baths/showers",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/home-check.svg' alt='House icon' /> Ideal for 1-2 bedroom houses",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/Performance-Icon.svg' alt='Performance Icon' '/>  Performance: <b>80LPM AT 3 BAR</b>",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/arrow-autofit-height.svg' alt='House icon' /> Ideal for height restrictions"
+    ]
+  },
+  {
+    "ID": 11,
+    "SKU": 2600400,
+    "ProductName": "Powertank COFFIN 340ltr - Fixed Speed",
+    "Title": "<b>POWERTANK COFFIN <br>FIXED SPEED 340LTR</b>",
+    "URL": "https://pumpexpress.co.uk/shop/powertank-coffin-340ltr-fixed-speed-water-pressure-booster/",
+    "Model": "COFFIN",
+    "Price": "£1,074.00",
+    "TankSize": 340,
+    "ControllerType": "Fixed",
+    "FlowRate": 40,
+    "PrimaryImage": "https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/pt/PT-Coffin-340-fixed.webp",
+    "KeyPoints": [
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/bath.svg' alt='Bath icon' '/> Good for 2-3 baths/showers",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/home-check.svg' alt='House icon' /> Ideal for 1-2 bedroom houses",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/Performance-Icon.svg' alt='Performance Icon' '/>  Performance: <b>40LPM AT 3 BAR</b>",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/arrow-autofit-height.svg' alt='House icon' /> Ideal for height restrictions"
+    ]
+  },
+  {
+    "ID": 12,
+    "SKU": 2600410,
+    "ProductName": "Powertank COFFIN 340ltr - Variable Speed",
+    "Title": "<b>POWERTANK COFFIN <br>VARIABLE SPEED 340LTR</b>",
+    "URL": "https://pumpexpress.co.uk/shop/powertank-coffin-340ltr-variable-speed-water-pressure-booster/",
+    "Model": "COFFIN",
+    "Price": "£1,914.00",
+    "TankSize": 340,
+    "ControllerType": "Variable",
+    "FlowRate": 80,
+    "PrimaryImage": "https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/pt/PT-Coffin-340-variable.webp",
+    "KeyPoints": [
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/bath.svg' alt='Bath icon' '/> Good for 2-3 baths/showers",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/home-check.svg' alt='House icon' /> Ideal for 1-2 bedroom houses",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/Performance-Icon.svg' alt='Performance Icon' '/>  Performance: <b>80LPM AT 3 BAR</b>",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/arrow-autofit-height.svg' alt='House icon' /> Ideal for height restrictions"
+    ]
+  },
+  {
+    "ID": 13,
+    "SKU": 2600110,
+    "ProductName": "POWERTANK 350ltr Slimline Fixed Speed Pump",
+    "Title": "<b>POWERTANK SLIMLINE <br>FIXED SPEED 350LTR</b>",
+    "URL": "https://pumpexpress.co.uk/shop/powertank-slimline-fixed-speed-water-pressure-booster/?attribute_select-a-tank-size=350+Litre+tank",
+    "Model": "SLIMLINE",
+    "Price": "£912.00",
+    "TankSize": 350,
+    "ControllerType": "Fixed",
+    "FlowRate": 40,
+    "PrimaryImage": "https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/pt/PT-Slimline-350-fixed.webp",
+    "KeyPoints": [
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/bath.svg' alt='Bath icon' '/> Good for 2-3 baths/showers",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/home-check.svg' alt='House icon' /> Ideal for 1-2 bedroom houses",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/Performance-Icon.svg' alt='Performance Icon' '/>  Performance: <b>40LPM AT 3 BAR</b>",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/door.svg' alt='Door Icon' '/> Fits through standard UK door"
+    ]
+  },
+  {
+    "ID": 14,
+    "SKU": 2600120,
+    "ProductName": "POWERTANK 350ltr Slimline Variable Speed Pump",
+    "Title": "<b>POWERTANK SLIMLINE <br>VARIABLE SPEED 350LTR</b>",
+    "URL": "https://pumpexpress.co.uk/shop/powertank-slimline-variable-speed-water-pressure-booster/?attribute_select-a-tank-size=350+Litre+Tank",
+    "Model": "SLIMLINE",
+    "Price": "£1,536.00",
+    "TankSize": 350,
+    "ControllerType": "Variable",
+    "FlowRate": 80,
+    "PrimaryImage": "https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/pt/PT-Slimline-350-variable.webp",
+    "KeyPoints": [
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/bath.svg' alt='Bath icon' '/> Good for 2-3 baths/showers",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/home-check.svg' alt='House icon' /> Ideal for 1-2 bedroom houses",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/Performance-Icon.svg' alt='Performance Icon' '/>  Performance: <b>80LPM AT 3 BAR</b>",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/door.svg' alt='Door Icon' '/> Fits through standard UK door"
+    ]
+  },
+  {
+    "ID": 15,
+    "SKU": 2601220,
+    "ProductName": "POWERTANK 450ltr Slimline Fixed Speed Pump",
+    "Title": "<b>POWERTANK SLIMLINE <br>FIXED SPEED 450LTR</b>",
+    "URL": "https://pumpexpress.co.uk/shop/powertank-slimline-fixed-speed-water-pressure-booster/?attribute_select-a-tank-size=450+Litre+tank",
+    "Model": "SLIMLINE",
+    "Price": "£960.00",
+    "TankSize": 450,
+    "ControllerType": "Fixed",
+    "FlowRate": 40,
+    "PrimaryImage": "https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/pt/PT-Slimline-450-fixed.webp",
+    "KeyPoints": [
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/bath.svg' alt='Bath icon' '/> Good for 2-3 baths/showers",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/home-check.svg' alt='House icon' /> Ideal for 1-2 bedroom houses",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/Performance-Icon.svg' alt='Performance Icon' '/>  Performance: <b>40LPM AT 3 BAR</b>",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/door.svg' alt='Door Icon' '/> Fits through standard UK door"
+    ]
+  },
+  {
+    "ID": 16,
+    "SKU": 2601230,
+    "ProductName": "POWERTANK 450ltr Slimline Variable Speed Pump",
+    "Title": "<b>POWERTANK SLIMLINE <br>VARIABLE SPEED 450LTR</b>",
+    "URL": "https://pumpexpress.co.uk/shop/powertank-slimline-variable-speed-water-pressure-booster/?attribute_select-a-tank-size=450+Litre+tank",    
+    "Model": "SLIMLINE",
+    "Price": "£1,584.00",
+    "TankSize": 450,
+    "ControllerType": "Variable",
+    "FlowRate": 80,
+    "PrimaryImage": "https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/pt/PT-Slimline-450-variable.webp",
+    "KeyPoints": [
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/bath.svg' alt='Bath icon' '/> Good for 2-4 baths/showers",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/home-check.svg' alt='House icon' /> Ideal for 1-2 bedroom houses",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/Performance-Icon.svg' alt='Performance Icon' '/>  Performance: <b>80LPM AT 3 BAR</b>",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/door.svg' alt='Door Icon' '/> Fits through standard UK door"
+    ]
+  },
+  {
+    "ID": 17,
+    "SKU": 2600420,
+    "ProductName": "Powertank COFFIN 450ltr - Fixed Speed ",
+    "Title": "<b>POWERTANK COFFIN <br>FIXED SPEED 450LTR</b>",
+    "URL": "https://pumpexpress.co.uk/shop/powertank-coffin-450ltr-fixed-speed-water-pressure-booster/",    
+    "Model": "COFFIN",
+    "Price": "£1,080.00",
+    "TankSize": 450,
+    "ControllerType": "Fixed",
+    "FlowRate": 40,
+    "PrimaryImage": "https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/pt/PT-Coffin-450-fixed.webp",
+    "KeyPoints": [
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/bath.svg' alt='Bath icon' '/> Good for 2-3 baths/showers",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/home-check.svg' alt='House icon' /> Ideal for 1-2 bedroom houses",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/Performance-Icon.svg' alt='Performance Icon' '/>  Performance: <b>40LPM AT 3 BAR</b>",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/arrow-autofit-height.svg' alt='House icon' /> Ideal for height restrictions"
+    ]
+  },
+  {
+    "ID": 18,
+    "SKU": 2600430,
+    "ProductName": "Powertank COFFIN 450ltr - Variable Speed ",
+    "Title": "<b>POWERTANK COFFIN <br>VARIABLE SPEED 450LTR</b>",
+    "URL": "https://pumpexpress.co.uk/shop/powertank-coffin-450ltr-variable-speed-water-pressure-booster/",    
+    "Model": "COFFIN",
+    "Price": "£1,920.00",
+    "TankSize": 450,
+    "ControllerType": "Variable",
+    "FlowRate": 80,
+    "PrimaryImage": "https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/pt/PT-Coffin-450-variable.webp",
+    "KeyPoints": [
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/bath.svg' alt='Bath icon' '/> Good for 2-4 baths/showers",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/home-check.svg' alt='House icon' /> Ideal for 1-2 bedroom houses",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/Performance-Icon.svg' alt='Performance Icon' '/>  Performance: <b>80LPM AT 3 BAR</b>",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/arrow-autofit-height.svg' alt='House icon' /> Ideal for height restrictions"
+    ]
+  },
+  {
+    "ID": 19,
+    "SKU": 2600330,
+    "ProductName": "Powertank RECTANGULAR - Fixed Speed - 500",
+    "Title": "<b>POWERTANK RECTANGULAR <br>FIXED SPEED 500LTR</b>",
+    "URL": "https://pumpexpress.co.uk/shop/powertank-rectangular-300-500ltr-fixed-speed-water-pressure-booster/?attribute_select-a-tank-size=500+Litre+Tank",    
+    "Model": "RECTANGULAR",
+    "Price": "£978.00",
+    "TankSize": 500,
+    "ControllerType": "Fixed",
+    "FlowRate": 40,
+    "PrimaryImage": "https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/pt/PT-Rectangular-500-fixed.webp",
+    "KeyPoints": [
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/bath.svg' alt='Bath icon' '/> Good for 2-3 baths/showers",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/home-check.svg' alt='House icon' /> Ideal for 1-2 bedroom houses",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/Performance-Icon.svg' alt='Performance Icon' '/>  Performance: <b>40LPM AT 3 BAR</b>",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/arrow-autofit-height.svg' alt='House icon' /> Ideal for height restrictions"
+    ]
+  },
+  {
+    "ID": 20,
+    "SKU": 2600330,
+    "ProductName": "Powertank RECTANGULAR - Variable Speed - 500",
+    "Title": "<b>POWERTANK RECTANGULAR <br>VARIABLE SPEED 500LTR</b>",
+    "URL": "https://pumpexpress.co.uk/shop/powertank-rectangular-300-500ltr-variable-speed-water-pressure-booster/?attribute_select-a-tank-size=500+Litre+Tank",    
+    "Model": "RECTANGULAR",
+    "Price": "£1,602.00",
+    "TankSize": 500,
+    "ControllerType": "Variable",
+    "FlowRate": 80,
+    "PrimaryImage": "https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/pt/PT-Rectangular-500-variable.webp",
+    "KeyPoints": [
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/bath.svg' alt='Bath icon' '/> Good for 2-4 baths/showers",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/home-check.svg' alt='House icon' /> Ideal for 1-2 bedroom houses",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/Performance-Icon.svg' alt='Performance Icon' '/>  Performance: <b>80LPM AT 3 BAR</b>",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/arrow-autofit-height.svg' alt='House icon' /> Ideal for height restrictions"
+    ]
+  },
+  {
+    "ID": 21,
+    "SKU": 2600350,
+    "ProductName": "Powertank RECTANGULAR - Variable Twin Speed - 500",
+    "Title": "<b>POWERTANK RECTANGULAR TWIN<br>VARIABLE SPEED 500LTR</b>",
+    "URL": "https://pumpexpress.co.uk/shop/powertank-rectangular-500ltr-variable-speed-twin/",    
+    "Model": "RECTANGULAR",
+    "Price": "£3,000.00",
+    "TankSize": 500,
+    "ControllerType": "Variable Twin",
+    "FlowRate": 160,
+    "PrimaryImage": "https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/pt/PT-Rectangular-500-twin.webp",
+    "KeyPoints": [
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/bath.svg' alt='Bath icon' '/> Good for 3-4 baths/showers",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/home-check.svg' alt='House icon' /> Ideal for 1-2 bedroom houses",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/jetpack.svg' alt='Powerful Icon' '/> Powerful Twin Pump: <b>160/LPM AT 3 BAR</b>",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/arrow-autofit-height.svg' alt='House icon' /> Ideal for height restrictions"
+    ]
+  },
+  {
+    "ID": 22,
+    "SKU": 2600130,
+    "ProductName": "Powertank UTILITY  - Fixed Speed - 500",
+    "Title": "<b>POWERTANK UTILITY <br>FIXED SPEED 500LTR</b>",
+    "URL": "https://pumpexpress.co.uk/shop/powertank-utility-fixed-speed-water-pressure-booster/?attribute_select-a-tank-size=500+Litre+Tank",    
+    "Model": "UTILITY",
+    "Price": "£930.00",
+    "TankSize": 500,
+    "ControllerType": "Fixed",
+    "FlowRate": 40,
+    "PrimaryImage": "https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/pt/PT-utility-500-fixed.webp",
+    "KeyPoints": [
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/bath.svg' alt='Bath icon' '/> Good for 2-3 baths/showers",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/home-check.svg' alt='House icon' /> Ideal for 1-2 bedroom houses",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/Performance-Icon.svg' alt='Performance Icon' '/>  Performance: <b>40LPM AT 3 BAR</b>",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/arrow-autofit-height.svg' alt='Compact icon' '/> Medium height, medium width tank"
+    ]
+  },
+    {
+    "ID": 23,
+    "SKU": 2600150,
+    "ProductName": "Powertank UTILITY  - Variable Speed - 500",
+    "Title": "<b>POWERTANK UTILITY <br>VARIABLE SPEED 500LTR</b>",
+    "URL": "https://pumpexpress.co.uk/shop/powertank-utility-variable-speed-water-pressure-booster/?attribute_select-a-tank-size=500+Litre+Tank",    
+    "Model": "Variable",
+    "Price": "£1,878.00",
+    "TankSize": 500,
+    "ControllerType": "Variable",
+    "FlowRate": 80,
+    "PrimaryImage": "https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/pt/PT-utility-500-variable.webp",
+    "KeyPoints": [
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/bath.svg' alt='Bath icon' '/> Good for 2-4 baths/showers",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/home-check.svg' alt='House icon' /> Ideal for 1-2 bedroom houses",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/Performance-Icon.svg' alt='Performance Icon' '/>  Performance: <b>80LPM AT 3 BAR</b>",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/arrow-autofit-height.svg' alt='Compact icon' '/> Medium height, medium width tank"
+    ]
+  },
+  {
+    "ID": 24,
+    "SKU": 2600160,
+    "ProductName": "Powertank UTILITY Twin 500",
+    "Title": "<b>POWERTANK UTILITY TWIN<br>VARIABLE SPEED 500LTR</b>",
+    "URL": "https://pumpexpress.co.uk/shop/powertank-utility-variable-speed-500-or-750ltr-twin/?attribute_select-a-tank-size=500+Litre+Tank",    
+    "Model": "UTILITY",
+    "Price": "£2,946.00",
+    "TankSize": 500,
+    "ControllerType": "Variable Twin",
+    "FlowRate": 160,
+    "PrimaryImage": "https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/pt/PT-utility-500-twin.webp",
+    "KeyPoints": [
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/bath.svg' alt='Bath icon' '/> Good for 3-4 baths/showers",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/home-check.svg' alt='House icon' /> Ideal for 1-2 bedroom houses",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/jetpack.svg' alt='Powerful Icon' '/> Powerful Twin Pump: <b>160/LPM AT 3 BAR</b>",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/arrow-autofit-height.svg' alt='Compact icon' '/> Medium height, medium width tank"
+    ]
+  },
+  {
+    "ID": 25,
+    "SKU": 2600210,
+    "ProductName": "Powertank UTILITY  - Fixed Speed - 650",
+    "Title": "<b>POWERTANK UTILITY <br>FIXED SPEED 650LTR</b>",
+    "URL": "https://pumpexpress.co.uk/shop/powertank-utility-650ltr-variable-speed-water-pressure-booster/",    
+    "Model": "UTILITY",
+    "Price": "£1,260.00",
+    "TankSize": 650,
+    "ControllerType": "Fixed",
+    "FlowRate": 40,
+    "PrimaryImage": "https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/pt/PT-utility-650-fixed.webp",
+    "KeyPoints": [
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/bath.svg' alt='Bath icon' '/> Good for 2-3 baths/showers",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/home-check.svg' alt='House icon' /> Ideal for 1-2 bedroom houses",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/Performance-Icon.svg' alt='Performance Icon' '/>  Performance: <b>40LPM AT 3 BAR</b>",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/arrow-autofit-height.svg' alt='Compact icon' '/> Medium height, medium width tank"
+    ]
+  },
+    {
+    "ID": 26,
+    "SKU": 2600150,
+    "ProductName": "Powertank UTILITY  - Variable Speed - 650",
+    "Title": "<b>POWERTANK UTILITY <br>VARIABLE SPEED 650LTR</b>",
+    "URL": "https://pumpexpress.co.uk/shop/powertank-utility-650ltr-fixed-speed-water-pressure-booster/",    
+    "Model": "Variable",
+    "Price": "£1,884.00",
+    "TankSize": 650,
+    "ControllerType": "Variable",
+    "FlowRate": 80,
+    "PrimaryImage": "https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/pt/PT-utility-650-variable.webp",
+    "KeyPoints": [
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/bath.svg' alt='Bath icon' '/> Good for 3-5 baths/showers",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/home-check.svg' alt='House icon' /> Ideal for 1-2 bedroom houses",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/Performance-Icon.svg' alt='Performance Icon' '/>  Performance: <b>80LPM AT 3 BAR</b>",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/arrow-autofit-height.svg' alt='Compact icon' '/> Medium height, medium width tank"
+    ]
+  },
+  {
+    "ID": 27,
+    "SKU": 2600170,
+    "ProductName": "Powertank UTILITY  - Fixed Speed - 750",
+    "Title": "<b>POWERTANK UTILITY <br>FIXED SPEED 750LTR</b>",
+    "URL": "https://pumpexpress.co.uk/shop/powertank-utility-fixed-speed-water-pressure-booster/?attribute_select-a-tank-size=750+Litre+tank",    
+    "Model": "UTILITY",
+    "Price": "£1,140.00",
+    "TankSize": 750,
+    "ControllerType": "Fixed",
+    "FlowRate": 40,
+    "PrimaryImage": "https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/pt/PT-utility-750-fixed.webp",
+    "KeyPoints": [
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/bath.svg' alt='Bath icon' '/> Good for 2-3 baths/showers",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/home-check.svg' alt='House icon' /> Ideal for 1-2 bedroom houses",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/Performance-Icon.svg' alt='Performance Icon' '/>  Performance: <b>40LPM AT 3 BAR</b>",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/arrow-autofit-height.svg' alt='Height icon' '/> Tall height, medium width tank"
+    ]
+  },
+    {
+    "ID": 28,
+    "SKU": 2600190,
+    "ProductName": "Powertank UTILITY  - Variable Speed - 750",
+    "Title": "<b>POWERTANK UTILITY <br>VARIABLE SPEED 750LTR</b>",
+    "URL": "https://pumpexpress.co.uk/shop/powertank-utility-variable-speed-water-pressure-booster/?attribute_select-a-tank-size=750+Litre+tank",    
+    "Model": "Variable",
+    "Price": "£2,088.00",
+    "TankSize": 750,
+    "ControllerType": "Variable",
+    "FlowRate": 80,
+    "PrimaryImage": "https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/pt/PT-utility-750-variable.webp",
+    "KeyPoints": [
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/bath.svg' alt='Bath icon' '/> Good for 4-5 baths/showers",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/home-check.svg' alt='House icon' /> Ideal for 1-2 bedroom houses",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/Performance-Icon.svg' alt='Performance Icon' '/>  Performance: <b>80LPM AT 3 BAR</b>",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/arrow-autofit-height.svg' alt='Height icon' '/> Tall height, medium width tank"
+    ]
+  },
+  {
+    "ID": 29,
+    "SKU": 2600160,
+    "ProductName": "Powertank UTILITY Twin 750",
+    "Title": "<b>POWERTANK UTILITY TWIN<br>VARIABLE SPEED 750LTR</b>",
+    "URL": "https://pumpexpress.co.uk/shop/powertank-utility-variable-speed-500-or-750ltr-twin/?attribute_select-a-tank-size=750+Litre+tank",    
+    "Model": "UTILITY",
+    "Price": "£3,156.00",
+    "TankSize": 750,
+    "ControllerType": "Variable Twin",
+    "FlowRate": 160,
+    "PrimaryImage": "https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/pt/PT-utility-750-twin.webp",
+    "KeyPoints": [
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/bath.svg' alt='Bath icon' '/> Good for 5-7 baths/showers",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/home-check.svg' alt='House icon' /> Ideal for 1-2 bedroom houses",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/jetpack.svg' alt='Powerful Icon' '/> Powerful Twin Pump: <b>160/LPM AT 3 BAR</b>",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/arrow-autofit-height.svg' alt='Compact icon' '/> Tall height, medium width tank"
+    ]
+  },
+  {
+    "ID": 30,
+    "SKU": 2600230,
+    "ProductName": "Powertank UTILITY - Fixed Speed - 1000",
+    "Title": "<b>POWERTANK UTILITY <br>FIXED SPEED 1000LTR</b>",
+    "URL": "https://pumpexpress.co.uk/shop/powertank-utility-1000ltr-fixed-speed-water-pressure-booster/",    
+    "Model": "UTILITY",
+    "Price": "£1,380.00",
+    "TankSize": 1000,
+    "ControllerType": "Fixed",
+    "FlowRate": 40,
+    "PrimaryImage": "https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/pt/PT-utility-1000-fixed.webp",
+    "KeyPoints": [
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/bath.svg' alt='Bath icon' '/> Good for 2-3 baths/showers",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/home-check.svg' alt='House icon' /> Ideal for 1-2 bedroom houses",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/Performance-Icon.svg' alt='Performance Icon' '/>  Performance: <b>40LPM AT 3 BAR</b>",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/arrow-autofit-height.svg' alt='Height icon' '/> Tall, long & medium width tank"
+    ]
+  },
+  {
+    "ID": 31,
+    "SKU": 2600240,
+    "ProductName": "Powertank UTILITY - Variable Speed - 1000",
+    "Title": "<b>POWERTANK UTILITY <br>VARIABLE SPEED 1000LTR</b>",
+    "URL": "https://pumpexpress.co.uk/shop/powertank-utility-1000ltr-variable-speed-water-pressure-booster/",    
+    "Model": "Variable",
+    "Price": "£2,076.00",
+    "TankSize": 1000,
+    "ControllerType": "Variable",
+    "FlowRate": 80,
+    "PrimaryImage": "https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/pt/PT-utility-1000-variable.webp",
+    "KeyPoints": [
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/bath.svg' alt='Bath icon' '/> Good for 2-3 baths/showers",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/home-check.svg' alt='House icon' /> Ideal for 1-2 bedroom houses",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/Performance-Icon.svg' alt='Performance Icon' '/>  Performance: <b>80LPM AT 3 BAR</b>",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/arrow-autofit-height.svg' alt='Height icon' '/> Tall, long & medium width tank"
+    ]
+  },
+  {
+    "ID": 32,
+    "SKU": 2600260,
+    "ProductName": "Powertank UTILITY Twin 1000",
+    "Title": "<b>POWERTANK UTILITY TWIN<br>VARIABLE SPEED 1000LTR</b>",
+    "URL": "https://pumpexpress.co.uk/shop/powertank-utility-1000ltr-variable-speed-water-pressure-booster-twin/",    
+    "Model": "UTILITY",
+    "Price": "£3,156.00",
+    "TankSize": 1000,
+    "ControllerType": "Variable Twin",
+    "FlowRate": 160,
+    "PrimaryImage": "https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/pt/PT-utility-1000-twin.webp",
+    "KeyPoints": [
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/bath.svg' alt='Bath icon' '/> Good for 5-9 baths/showers",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/home-check.svg' alt='House icon' /> Popular for large houses",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/jetpack.svg' alt='Powerful Icon' '/> Powerful Twin Pump: <b>160/LPM AT 3 BAR</b>",
+      "<img src='https://cdn241.s3.eu-west-2.amazonaws.com/PumpExpress/tools/Powertank-Selector/icons/arrow-autofit-height.svg' alt='Compact icon' '/> Tall, long & medium width tank"
+    ]
+  }
+]
