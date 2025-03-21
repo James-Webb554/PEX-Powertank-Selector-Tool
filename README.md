@@ -41,6 +41,10 @@
 - Enter relevant details about your pressure and flow needs into the provided input fields.
 - The tool will process your input and display a list of recommended solutions.
 
+# Dependencies
+- https://github.com/davidjbradshaw/iframe-resizer
+- Visit https://www.gnu.org/licenses/gpl-faq.html#GPLRequireSourcePostedPublic to learn more.
+
 # Contribution
 - We welcome contributions to improve the tool. If you want to contribute, please fork the repository and submit a pull request. Make sure to follow the existing coding structure and conventions.
 
