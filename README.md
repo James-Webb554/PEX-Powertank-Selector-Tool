@@ -7,14 +7,19 @@ The PEX Powertank Selector Tool is a web-based application designed to help user
 Features
 
 Web-Based Application: A simple, accessible tool that runs in a browser.
+
 Customizable Inputs: Users provide details about their system’s pressure and flow issues.
+
 Curated Results: Based on the user’s input, the tool returns a selection of curated results from a pre-defined JSON array.
+
 Easy-to-Use Interface: Intuitive and straightforward interface for quickly receiving recommendations.
 
 How It Works
 
 Input Data: Users input details about their system’s pressure and flow issues using the web interface.
+
 Processing: The tool processes the input data against a curated JSON array of potential solutions.
+
 Results: The application displays a list of recommended products or setups based on the input data, offering the best possible solutions for the given pressure and flow problems.
 
 Installation
