@@ -42,7 +42,7 @@
 - The tool will process your input and display a list of recommended solutions.
 
 # Dependencies
-- [iframe-resizer](https://github.com/davidjbradshaw/iframe-resizer) 
+- Visit [iframe-resizer by davidjbradshaw](https://github.com/davidjbradshaw/iframe-resizer) to learn more.
 - Visit [GNU Licenses](https://www.gnu.org/licenses/gpl-faq.html#GPLRequireSourcePostedPublic) to learn more.
 
 # Contribution
